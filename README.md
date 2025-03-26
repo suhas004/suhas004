@@ -21,7 +21,7 @@
 
 I am an **AI researcher and engineer** with over three years of professional experience developing innovative AI solutions. I specialize in **Machine Learning** with expertise in **LLM fine-tuning**, **Generative AI**, and **deep learning models**. I love building intelligent systems and optimizing machine learning models for real-world applications.
 
-Currently, I am pursuing my **Master's in Computer Science** at **Johns Hopkins University**, where I focus on **Natural Language Processing**, **Computer Vision**, and **Deep Learning**.
+Currently, I am pursuing my **PhD in Computer Science** at **Johns Hopkins University**, where I focus on **Natural Language Processing**, **Computer Vision**, and **Deep Learning**.
 
 
 ## 🔍 A bit about me:
